@@ -1,19 +1,18 @@
-# <div align="center"> Hi 👋, I'm Gilson 👋
-
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gfrobotica/) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-filho-608b62178) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SSJzxs65)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585996593527)
+# <div align="center">  Hi , I'm Gilson Almeida👋
 
 
 
-## <div align="center">⚙️ &nbsp;GitHub Analytics
+
+
+
+## <div align="center">⚙️&nbsp;GitHub Analytics
 
 <div align="center">
-    <a href="https://github.com/gilsonfiho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark"alt="Gilson Almeida stats"/> </br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&langs_count=6&theme=dark" alt="Gilson Almeida most languages"/>
+  <a href="https://github.com/gilsonfiho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gilson Almeida stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&theme=dark" alt=" Gilson Almeida most languages"/>
 </div>
+
 
 ## <div align="center"> 🛠 &nbsp;Tech Skills
 
@@ -25,3 +24,11 @@
 ##
 
 ### <div align="justify "> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup (GF Robótica). Possuo experiência nas áreas de Automação,  Impressão 3D,  IoT e Sistemas Embarcados. </div>
+
+
+##
+
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gfrobotica/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-filho-608b62178) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SSJzxs65)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585996593527)
