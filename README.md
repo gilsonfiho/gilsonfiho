@@ -1,9 +1,4 @@
-# <div align="center">  Hi , I'm Gilson Almeida👋
-
-
-
-
-
+# <div align="center">  Hi , I'm Gilson Almeida
 
 ## <div align="center">⚙️&nbsp;GitHub Analytics
 
@@ -12,7 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gilson Almeida stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&theme=dark" alt=" Gilson Almeida most languages"/>
 </div>
-
 
 ## <div align="center"> 🛠 &nbsp;Tech Skills
 
