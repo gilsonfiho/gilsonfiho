@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/gilsonfiho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gilson Almeida stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&theme=dark" alt=" Gilson Almeida most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark" alt=" Gilson Almeida most languages"/>
 </div>
 
 ## <div align="center"> 🛠 &nbsp;Tech Skills
