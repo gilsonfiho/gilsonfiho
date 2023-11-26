@@ -1,4 +1,4 @@
-# <div align="center">  Hi , I'm Gilson
+# <div align="center">  Hi , I'm Gilson 👋
 
 ## <div align="center">⚙️&nbsp;GitHub Analytics
 
