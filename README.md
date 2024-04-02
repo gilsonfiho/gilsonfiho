@@ -17,7 +17,7 @@
 
 ##
 
-### <div align="justify "> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup (GF Robótica). Possuo experiência nas áreas de Automação,  Impressão 3D,  IoT e Sistemas Embarcados. </div>
+### <div align="justify "> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup (GF Robótica). Possuo experiência nas áreas de Automação,  Impressão 3D,  IoT e Sistemas Embarcados. Atualmente sou pesquisador/dev na empresa Atlanta Tecnologia de Informação. </div>
 
 
 ##
