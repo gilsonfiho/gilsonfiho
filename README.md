@@ -20,7 +20,7 @@
 ### <div align="justify "> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup (GF Robótica). Possuo experiência nas áreas de Automação,  Impressão 3D,  IoT e Sistemas Embarcados. Atualmente sou pesquisador/dev na empresa Atlanta Tecnologia de Informação. </div>
 
 
-##
+## <div align="center">
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gfrobotica/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-filho-608b62178) 
