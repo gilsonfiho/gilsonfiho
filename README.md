@@ -48,8 +48,6 @@
 
 ## <div align="center"> 👨‍💻 Sobre Mim
 
-<div align="center"> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup GF Robótica.
-
 </p>
 
 <div align="center"> Atualmente atuo como desenvolvedor/pesquisador na Atlanta Tecnologia da Informação, com foco em:
