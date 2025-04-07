@@ -54,7 +54,7 @@ Atualmente atuo como desenvolvedor/pesquisador na **Atlanta Tecnologia da Inform
 
 - Sistemas embarcados com arduino, ESP32 e comunicação via LoRa
 - Visualização de dados em tempo real com Dash e Plotly
-- Desenvolvimento de ferramentas em Python 
+- Desenvolvimento de ferramentas em C/C++ e Python
 - Projetos em automação, IoT e engenharia aplicada
 - Aquisição e análise de dados de sensores FBG (Fiber Bragg Grating)
 
