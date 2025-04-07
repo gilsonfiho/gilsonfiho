@@ -50,7 +50,7 @@
 
 </p>
 
-<div align="center"> Atualmente atuo como desenvolvedor/pesquisador na Atlanta Tecnologia da Informação, com foco em:
+<div align="center"> Atualmente atuo como R&D Firmware Engineer na Atlanta Tecnologia da Informação, com foco em:
 
 </p>
 
