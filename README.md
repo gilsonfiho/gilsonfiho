@@ -46,21 +46,25 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## <div align="center"> 👨‍💻 Sobre Mim
 
-Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup **GF Robótica**.
+<div align="center"> Sou Engenheiro de Computação formado pela UFC, professor e empreendedor. Durante a graduação, fundei a startup GF Robótica.
 
-Atualmente atuo como desenvolvedor/pesquisador na **Atlanta Tecnologia da Informação**, com foco em:
+</p>
 
-- Sistemas embarcados com arduino, ESP32 e comunicação via LoRa
-- Visualização de dados em tempo real com Dash e Plotly
-- Desenvolvimento de ferramentas em C/C++ e Python
-- Projetos em automação, IoT e engenharia aplicada
-- Aquisição e análise de dados de sensores FBG (Fiber Bragg Grating)
+<div align="center"> Atualmente atuo como desenvolvedor/pesquisador na Atlanta Tecnologia da Informação, com foco em:
+
+</p>
+
+<div align="center"> - Sistemas embarcados com PIC, ESP32 e comunicação via LoRa e Xbee
+<div align="center"> - Visualização de dados em tempo real com Dash e Plotly
+<div align="center"> - Desenvolvimento de ferramentas em C/C++ e Python
+<div align="center"> - Projetos em automação, IoT e engenharia aplicada
+<div align="center"> - Aquisição e análise de dados de sensores FBG (Fiber Bragg Grating) para Projetos WIM
 
 ---
 
-## 🌐 Contato
+## <div align="center"> 🌐 Contato
 
 <div align="center">
 
