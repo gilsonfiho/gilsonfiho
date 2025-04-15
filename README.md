@@ -54,11 +54,11 @@
 
 </p>
 
-<div align="center"> - Sistemas embarcados com PIC, ESP32 e comunicação via LoRa e Xbee
-<div align="center"> - Visualização de dados em tempo real com Dash e Plotly
-<div align="center"> - Desenvolvimento de ferramentas em C/C++ e Python
-<div align="center"> - Projetos em automação, IoT e engenharia aplicada
-<div align="center"> - Aquisição e análise de dados de sensores FBG (Fiber Bragg Grating) para Projetos WIM
+<div align="center"> - Embedded systems with PIC, ESP32, and communication via LoRa and Xbee  
+<div align="center"> - Real-time data visualization with Dash and Plotly  
+<div align="center"> - Development of tools in C/C++ and Python  
+<div align="center"> - Projects in automation, IoT, and applied engineering  
+<div align="center"> - Acquisition and analysis of FBG (Fiber Bragg Grating) sensor data for WIM Projects  
 
 ---
 
