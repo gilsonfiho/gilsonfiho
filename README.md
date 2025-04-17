@@ -50,7 +50,7 @@
 
 </p>
 
-<div align="center"> Currently working as an R&D Firmware Engineer at Atlanta Tecnologia da Informação, with a focus on:  
+<div align="center"> Currently working as an R&D Firmware Engineer at Atlanta Tecnologia de Informação, with a focus on:  
 
 </p>
 
