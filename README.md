@@ -46,7 +46,7 @@
 
 ---
 
-## <div align="center"> 👨‍💻 Sobre Mim
+## <div align="center"> 👨‍💻 About me
 
 </p>
 
