@@ -5,7 +5,7 @@
 # <div align="center">Hi, I'm Gilson 👋</div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação+/+Machine+Learning;Desenvolvedor+C+/+Cpp+/+Python;Modelagem+3D+/+Impressão+3D;IOT+/+ESP32+/+Arduino+/+Lora;Automação+/+Sistemas+Embarcados+/+PCB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação+/+Machine+Learning;Desenvolvedor+C+/+Cpp+/+Python;Modelagem+3D+/+Impressão+3D;IOT+/+ESP32+/+PIC+/+Lora;Automação+/+Sistemas+Embarcados+/+PCB" alt="Typing SVG" />
 </h3>
 
 ---
