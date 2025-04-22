@@ -48,17 +48,22 @@
 
 ## <div align="center"> 👨‍💻 About me
 
-</p>
+I’m a Computer Engineering graduate from **UFC** and currently pursuing a postgraduate degree in **Machine Learning Engineering**.  
+I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*, where I develop solutions focused on embedded systems and smart sensor networks.
 
-<div align="center"> Currently working as an R&D Firmware Engineer at Atlanta Tecnologia de Informação, with a focus on:  
+### 🔧 Main focus areas:
 
-</p>
+- Embedded systems development with **PIC** and **ESP32**, leveraging **LoRa** and **Xbee** for wireless communication  
+- Real-time data visualization using **Dash** and **Plotly**  
+- Firmware and software development in **C**, **C++**, and **Python**  
+- Projects involving **automation**, **IoT**, and **applied engineering**  
+- Data acquisition and analysis from **FBG (Fiber Bragg Grating)** sensors  
+- Applied **robotics**, **maker projects**, and **3D modeling/printing**
 
-<div align="center"> - Embedded systems with PIC, ESP32, and communication via LoRa and Xbee  
-<div align="center"> - Real-time data visualization with Dash and Plotly  
-<div align="center"> - Development of tools in C/C++ and Python  
-<div align="center"> - Projects in automation, IoT, and applied engineering  
-<div align="center"> - Acquisition and analysis of FBG (Fiber Bragg Grating) sensor data for WIM Projects  
+### 🧠 Currently exploring:
+
+- **Linux**, **Docker**, and **OpenCV**  
+- Techniques for improving system performance and data handling in **resource-constrained environments**
 
 ---
 
