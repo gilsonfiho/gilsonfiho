@@ -63,8 +63,8 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 ### 🧠 Currently exploring:
 
-- **Linux**, **Docker**, and **OpenCV**  
-- Techniques for improving system performance and data handling in **resource-constrained environments**
+ **Linux**, **Docker**, and **OpenCV**  
+ Techniques for improving system performance and data handling in **resource-constrained environments**
 
 </div>
 
