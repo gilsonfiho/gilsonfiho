@@ -2,6 +2,11 @@
 
 # <div align="center">Hi, I'm Gilson 👋</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="300" alt="welcome gif">
+</div>
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação+/+Machine+Learning;Desenvolvedor+C+/+Cpp+/+Python;Modelagem+3D+/+Impressão+3D;IOT+/+ESP32+/+PIC+/+Lora;Automação+/+Sistemas+Embarcados+/+PCB" alt="Typing SVG" />
 </h3>
@@ -44,9 +49,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400" alt="welcome gif">
-</div>
 
 <div align="center">
 
