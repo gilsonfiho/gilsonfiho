@@ -3,7 +3,7 @@
 # <div align="center">Hi, I'm Gilson 👋</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="300" alt="welcome gif">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" " alt="welcome gif">
 </div>
 
 
