@@ -74,7 +74,7 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 ---
 
-## <div align="center"> 🌐 Contato
+## <div align="center"> 🌐 Contact
 
 <div align="center">
 
