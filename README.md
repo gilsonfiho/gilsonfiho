@@ -86,8 +86,11 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 </div>
 
+
 ## <div align="center"> 📈 Visitors Count
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gilsonfiho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  <img src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=Counter-Strike&logoColor=white&labelColor=111111&color=ff0000" alt="Visitors Count"/>
+  <br>
+  <img src="https://profile-counter.glitch.me/gilsonfiho/count.svg" alt="Visitor Count" />
 </div>
