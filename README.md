@@ -7,6 +7,7 @@
 </div>
 
 
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação+/+Machine+Learning;Desenvolvedor+C+/+Cpp+/+Python;Modelagem+3D+/+Impressão+3D;IOT+/+ESP32+/+PIC+/+Lora;Automação+/+Sistemas+Embarcados+/+PCB" alt="Typing SVG" />
 </h3>
@@ -83,4 +84,10 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SSJzxs65)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585996593527)
 
+</div>
+
+## <div align="center"> 📈 Visitors Count
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gilsonfiho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </div>
