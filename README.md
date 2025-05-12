@@ -67,7 +67,7 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 ### 🧠 Currently exploring:
 
- **Linux**, **Docker**, **Machine Learning** and **OpenCV**  
+ **Linux**, **Docker**, **Machine Learning**, **OpenCV** and **N8N**
  Techniques for improving system performance and data handling in **resource-constrained environments**
 
 </div>
