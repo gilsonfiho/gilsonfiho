@@ -58,7 +58,7 @@ I’m a Computer Engineering graduate from **UFC** and currently pursuing a post
 I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 ### 🔧 Main focus areas:
 
- Embedded systems development with **PIC** and **ESP32**, leveraging **LoRa** and **Xbee** for wireless communication  
+ Embedded systems development with **PIC** and **ESP32** and **Arduino** and **Rapberry PI**, leveraging **LoRa** and **Xbee** for wireless communication  
  Real-time data visualization using **Dash** and **Plotly**  
  Firmware and software development in **C**, **C++**, and **Python**  
  Projects involving **automation**, **IoT**, and **applied engineering**  
