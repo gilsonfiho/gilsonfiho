@@ -56,14 +56,18 @@
 
 I’m a Computer Engineering graduate from **UFC** and currently pursuing a postgraduate degree in **Machine Learning Engineering**.  
 I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
+
 ### 🔧 Main focus areas:
 
- Embedded systems development with **PIC** and **ESP32** and **Arduino** and **Rapberry PI**, leveraging **LoRa** and **Xbee** for wireless communication  
- Real-time data visualization using **Dash** and **Plotly**  
- Firmware and software development in **C**, **C++**, and **Python**  
- Projects involving **automation**, **IoT**, and **applied engineering**  
- Data acquisition and analysis from **FBG (Fiber Bragg Grating)** sensors  
- Applied **robotics**, **maker projects**, and **3D modeling/printing**
+Embedded systems development with **PIC**, **ESP32**, **Arduino**, and **Raspberry Pi**, leveraging **LoRa**, **Xbee**, and other wireless communication technologies  
+Firmware and software development in **C**, **C++**, and **Python**, with a focus on reliability and efficiency  
+Real-time data visualization and dashboard creation using **Dash**, **Plotly**, and **interactive web technologies**  
+Data acquisition, signal processing, and analysis from **FBG (Fiber Bragg Grating)** sensors and other industrial sensors  
+Projects involving **automation**, **IoT**, **applied engineering**, and **industrial monitoring**  
+Applied **robotics**, **prototyping**, **maker projects**, and **3D modeling/printing**  
+Development and application of **Machine Learning**, **Deep Learning**, and **LLMs (Large Language Models)** for real-world problem-solving  
+Research and projects in **Artificial Intelligence (AI)**, with focus on **edge AI**, **predictive analytics**, and intelligent systems  
+
 
 ### 🧠 Currently exploring:
 
