@@ -61,8 +61,6 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 Embedded systems development with **PIC**, **ESP32**, **Arduino**, and **Raspberry Pi**, leveraging **LoRa**, **Xbee**, and other wireless communication technologies  
 Firmware and software development in **C**, **C++**, and **Python**, with a focus on reliability and efficiency  
-Real-time data visualization and dashboard creation using **Dash**, **Plotly**, and **interactive web technologies**  
-Data acquisition, signal processing, and analysis from **FBG (Fiber Bragg Grating)** sensors and other industrial sensors  
 Projects involving **automation**, **IoT**, **applied engineering**, and **industrial monitoring**  
 Applied **robotics**, **prototyping**, **maker projects**, and **3D modeling/printing**  
 Development and application of **Machine Learning**, **Deep Learning**, and **LLMs (Large Language Models)** for real-world problem-solving  
