@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/gilsonfiho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gilson Almeida stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark" alt="Gilson Almeida most languages"/>
+    <img width="480" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Gilson Almeida stats"/>
+    <img width="317" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark&cache_seconds=1800" alt="Gilson Almeida most languages"/>
   </a>
 </div>
 
@@ -57,7 +57,7 @@
 ---
 
 
-<div align="center">
+<div align="left">
 
 ## 👨‍💻 About me
 
@@ -68,16 +68,16 @@ I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
 
 Embedded systems development with **PIC**, **ESP32**, **Arduino**, and **Raspberry Pi**, leveraging **LoRa**, **Xbee**, and other wireless communication technologies  
 Firmware and software development in **C**, **C++**, and **Python**, with a focus on reliability and efficiency  
-Projects involving **automation**, **IoT**, **applied engineering**, and **industrial monitoring**  
+Projects involving **automation**, **IoT**, and **applied engineering**
 Applied **robotics**, **prototyping**, **maker projects**, and **3D modeling/printing**  
 Development and application of **Machine Learning**, **Deep Learning**, and **LLMs (Large Language Models)** for real-world problem-solving  
-Research and projects in **Artificial Intelligence (AI)**, with focus on **edge AI**, **predictive analytics**, and intelligent systems  
 
 
 ### 🧠 Currently exploring:
 
- **Linux**, **Docker**, **Machine Learning**, **OpenCV** and **N8N**
+ **Linux**, **Docker**, **Machine Learning**, **OpenCV**, **LangChain**, **MCP** and **N8N**
  Techniques for improving system performance and data handling in **resource-constrained environments**
+ I am also strengthening my knowledge in Java, C#, and databases to enhance the integration of my projects with the back end.
 
 </div>
 
