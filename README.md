@@ -105,12 +105,9 @@ Development and application of **Machine Learning**, **Deep Learning**, and **LL
 
 ---
 
-## <div align="center"> 📈 Visitors Count
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=Counter-Strike&logoColor=white&labelColor=111111&color=ff0000" alt="Visitors Count"/>
-  <br>
-  <img src="https://profile-counter.glitch.me/gilsonfiho/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=gilsonfiho&label=Profile%20views&color=ff0000&style=flat" alt="Profile views" />
 </div>
+
 
 ---
