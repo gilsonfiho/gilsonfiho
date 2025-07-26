@@ -18,7 +18,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+/+Machine+Learning+/+IA+;Dev+C+/+Cpp+/+Python+/Java+;LLMs+/+Lanchain+/+RAG+/+MCP+/+n8n+;IOT+/+ESP32+/+PIC+/+Lora;Automation+/+Embedded+Systems+/+PCB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+/+Machine+Learning+/+IA+;Dev+C+/+Cpp+/+Python+/Java+;LLMs+/+Langchain+/+RAG+/+MCP+/+n8n+;IOT+/+ESP32+/+PIC+/+Lora;Automation+/+Embedded+Systems+/+PCB" alt="Typing SVG" />
 </h3>
 
 ---
