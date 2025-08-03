@@ -70,7 +70,7 @@
 ## 👨‍💻 About me
 
 I’m a Computer Engineering graduate from **UFC** and currently pursuing a postgraduate degree in **Machine Learning Engineering**.  
-I work as an **R&D Firmware Engineer** at *Atlanta Tecnologia de Informação*.
+I work as an **R&D Engineer** at *Atlanta Tecnologia de Informação*.
 
 ### 🔧 Main focus areas:
 
