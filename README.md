@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/gilsonfiho">
-    <img width="480" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Gilson Almeida stats"/>
-    <img width="317" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark&cache_seconds=1800" alt="Gilson Almeida most languages"/>
+    <img width="480" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Gilson Almeida stats"/>
+    <img width="317" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark&cache_seconds=3600" alt="Gilson Almeida most languages"/>
   </a>
 </div>
 
