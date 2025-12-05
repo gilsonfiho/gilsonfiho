@@ -6,20 +6,15 @@
 
 ---
 
-## <div align="center">⚙️ GitHub Analytics
+## <div align="center">⚙️ GitHub Analytics </div>
+<br>
+<div align="center"> <!-- Profile Summary Cards --> <a href="https://github.com/gilsonfiho"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonfiho&theme=github_dark" width="800"/> </a>
 
-<div align="center">
-  <a href="https://github.com/gilsonfiho">
-    <img width="480" src="https://github-readme-stats.vercel.app/api?username=gilsonfiho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Gilson Almeida stats"/>
-    <img width="317" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&langs_count=8&layout=compact&theme=dark&cache_seconds=7200" alt="Gilson Almeida most languages"/>
-  </a>
+
+<!-- Language Stats --> <a href="https://github.com/gilsonfiho"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilsonfiho&theme=github_dark" width="350"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonfiho&theme=github_dark" width="350"/>  </a>
+
+
 </div>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+/+Machine+Learning+/+IA+;Dev+C+/+Cpp+/+Python+/Java+;LLMs+/+Langchain+/+RAG+/+MCP+/+n8n+;IOT+/+ESP32+/+PIC+/+Lora;Automation+/+Embedded+Systems+/+PCB" alt="Typing SVG" />
-</h3>
 
 ---
 
