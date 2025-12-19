@@ -11,7 +11,11 @@
 <div align="center"> <!-- Profile Summary Cards --> <a href="https://github.com/gilsonfiho"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonfiho&theme=github_dark" width="800"/> </a>
 
 
-<!-- Language Stats --> <a href="https://github.com/gilsonfiho"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilsonfiho&theme=github_dark" width="350"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonfiho&theme=github_dark" width="350"/>  </a>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&langs_count=4&theme=github_dark&border_color=30363d&hide=html,css" width="440"
+/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonfiho&theme=github_dark" width="350"/>  </a>
+
+
 
 
 </div>
