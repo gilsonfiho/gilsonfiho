@@ -6,14 +6,30 @@
 
 ---
 
-## <div align="center">⚙️ GitHub Analytics </div>
-<br>
-<div align="center"> <!-- Profile Summary Cards --> <a href="https://github.com/gilsonfiho"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonfiho&theme=github_dark" width="800"/> </a>
+## ⚙️ GitHub Analytics
 
+<div align="center">
+  <a href="https://github.com/gilsonfiho">
+    <img
+      width="820"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonfiho&theme=github_dark"
+    />
+  </a>
+</div>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfiho&layout=compact&langs_count=4&theme=github_dark&border_color=30363d&hide=html,css" width="440"
-/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonfiho&theme=github_dark" width="350"/>  </a>
+<br/>
+
+<div align="center">
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilsonfiho&theme=github_dark"
+  />
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonfiho&theme=github_dark"
+  />
+</div>
+
 
 
 
