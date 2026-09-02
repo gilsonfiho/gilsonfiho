@@ -1,5 +1,3 @@
-
-
 # <div align="center">Hi, I'm Gilson 👋</div>
 
 
@@ -57,11 +55,11 @@
 
 
 ### ⚙️ DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 
-### 🔌 Hardware / IoT  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+### 🔌 Hardware / IoT / Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Yocto Project](https://img.shields.io/badge/Yocto%20Project-F7B93E?style=for-the-badge)
 
 ---
 
@@ -69,8 +67,7 @@
 
 ## 👨‍💻 About me
 
-I’m a Computer Engineering graduate from **UFC** and currently pursuing a postgraduate degree in **Machine Learning Engineering**.  
-I work as an **R&D Engineer** at *Atlanta Tecnologia de Informação*.
+I'm a Computer Engineering graduate from **UFC** and currently pursuing a postgraduate degree in **Machine Learning Engineering**.  
 
 ### 🔧 Main focus areas:
 
