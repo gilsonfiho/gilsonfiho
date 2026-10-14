@@ -80,9 +80,8 @@ Development and application of **Machine Learning**, **Deep Learning**, and **LL
 
 ### 🧠 Currently exploring:
 
- **Linux**, **Docker**, **Machine Learning**, **OpenCV**, **LangChain**, **MCP** and **N8N**
+ **Linux**, **Docker**, **Machine Learning**, **OpenCV**, **LangChain**, **MCP** and **RAG**
  Techniques for improving system performance and data handling in **resource-constrained environments**
- I am also strengthening my knowledge in Java, C#, and databases to enhance the integration of my projects with the back end.
 
 </div>
 
